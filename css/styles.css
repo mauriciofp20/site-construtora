@@ -1,9 +1,7 @@
-*
-{
+body {
     font-family: Roboto, sans-serif;
+    overflow-x: hidden;
 }
-*
-
 
 /*Página Inicial*/
 .extras img {
